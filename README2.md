@@ -1,5 +1,7 @@
 # Olist E-commerce Analytics Pipeline
 
+## Download .csv: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 ## Description
 
 This project implements a comprehensive analytics pipeline for the **Olist** e-commerce platform. Using multiple public datasets, the pipeline segments customers, identifies buying patterns, visualizes geographic insights, analyzes customer reviews, and delivers actionable business recommendations.
